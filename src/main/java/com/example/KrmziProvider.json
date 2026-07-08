@@ -1,0 +1,7 @@
+{
+  "name": "قرمزي (Krmzi)",
+  "baseUrl": "https://krmzi.org",
+  "lang": "ar",
+  "type": ["movies", "series"],
+  "className": "KrmziProvider"
+}
