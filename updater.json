@@ -1,10 +1,8 @@
-[
-  {
+{
+  "com.example": {
     "name": "قرمزي (Krmzi)",
-    "pkg": "com.example",
     "version": 1,
-    "url": "https://raw.githubusercontent.com/faroukdz26/cloudstream-krmzi/main/KrmziProvider.apk",
-    "iconUrl": "https://raw.githubusercontent.com/recloudstream/cloudstream/master/app/src/main/res/drawable-nodpi/ic_launcher.png",
-    "hasLoadLinks": true
+    "url": "https://raw.githubusercontent.com/faroukdz26/cloudstream-krmzi/main/src/main/java/com/example/KrmziProvider.json",
+    "iconUrl": "https://raw.githubusercontent.com/recloudstream/cloudstream/master/app/src/main/res/drawable-nodpi/ic_launcher.png"
   }
-]
+}
